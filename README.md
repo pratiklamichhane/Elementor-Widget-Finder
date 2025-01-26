@@ -68,4 +68,4 @@ This plugin is **free and open to use**. You can use, modify, and distribute it 
 
 ## Contributing
 
-Contributions are welcome! Please open an issue or submit a pull request on the [GitHub repository](https://github.com/your-repo/elementor-widget-file-paths).
+Contributions are welcome! Please open an issue or submit a pull request on the [GitHub repository](#).
